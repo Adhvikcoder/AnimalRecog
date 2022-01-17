@@ -1,0 +1,28 @@
+.copy_right_footer{
+    font: 100;
+    color:rgb(76, 95, 182);
+    font-weight: 900;
+    text-align: center;
+    position:fixed;
+    text-shadow: 5px 5px 5px rgb(rgb(96, 96, 161));
+    width:100%;
+    bottom:0;
+    font-size:18px;
+    line-height:3;
+    background-color: rgb(131, 88, 58);
+    }
+    
+    body{
+    font-family: 'Special Elite',  cursive;
+    background: rgb(172, 115, 115)
+    }
+    
+    
+    .heading_div{
+    background: black;
+    color:blanchedalmond;
+    }
+    
+    button{
+        margin-top:20px;
+    }
